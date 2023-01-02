@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.formContainer{
+    width: 15rem;
+    background-color: lightgray;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+    background-color: rgb(111, 199, 151);
+}
+
+input{
+    display: block;
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+textarea{
+    width: 100%;
+    margin-bottom:0.5rem ;
+}
+.send{
+    width: 100%;
+    margin: auto;
+    background-color:rgb(111, 199, 151) ;
+}
+.send:hover{
+    background-color: green;
+}
